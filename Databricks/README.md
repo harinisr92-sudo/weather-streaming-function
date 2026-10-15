@@ -81,4 +81,4 @@ Python, Azure Databricks, Spark Structured Streaming, Unity Catalog, Azure Key V
 
 ## Author
 
-Harini Srinivasaraghavan · [LinkedIn] · [email]
+Harini Srinivasaraghavan · https://www.linkedin.com/in/harinisr · harinisr92@gmail.com
