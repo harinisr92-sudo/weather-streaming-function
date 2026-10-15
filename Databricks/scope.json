@@ -1,0 +1,8 @@
+{
+  "scope": "weather-kv-scope",
+  "scope_backend_type": "AZURE_KEYVAULT",
+  "backend_azure_keyvault": {
+    "resource_id": "/subscriptions/98400afd-bcf8-4fe4-b8a1-b348c55a89c1/resourceGroups/rg-weather-streaming/providers/Microsoft.Databricks/accessConnectors/ac-weather-streaming-hsr",
+    "dns_name": "https://kv-weather-streaming-hsr.vault.azure.net/"
+  }
+}
